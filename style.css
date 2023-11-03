@@ -1,0 +1,14 @@
+table,th,td{
+    border: 1px solid black;
+    border-collapse: collapse;  
+    text-align: center;
+    padding: 10px;
+}
+.caption{
+    font-weight: 900;
+    font-size: larger;
+    margin: 5px;
+}
+.row-lunch{
+    font-weight: 600;
+}
